@@ -2,33 +2,33 @@
 let All_song = [
     {
         name: "makank fe albi",
-        path: "/Amr Diab - Makanak Fe Alby _ عمرو دياب - مكانك في(MP3_160K).mp3",
-        img:"/copy_718854168.png",
+        path: "\Amr Diab - Makanak Fe Alby _ عمرو دياب - مكانك في(MP3_160K).mp3",
+        img:"\copy_718854168.png",
         singer: "1"
       },
     
       {
         name: "bayn habit",
-        path: "/Amr Diab - Bayen Habeit (Audio عمرو دياب - باين حبيت (كلمات(MP3_160K).mp3",
-        img: "/download.jfif",
+        path: "\Amr Diab - Bayen Habeit (Audio عمرو دياب - باين حبيت (كلمات(MP3_160K).mp3",
+        img: "\download.jfif",
         singer: "2"
       },
       {
         name: "anta maghror",
-        path: "/Amr Diab - Enta Maghroor (Audio عمرو دياب - أنت مغرور (كلمات(MP3_160K).mp3",
-        img: "/favpng_amr-diab-music-we-maloh-song-alby.png",
+        path: "\Amr Diab - Enta Maghroor (Audio عمرو دياب - أنت مغرور (كلمات(MP3_160K).mp3",
+        img: "\favpng_amr-diab-music-we-maloh-song-alby.png",
         singer: "3"
       },
       {
         name: "Rag3een",
-        path: "/Amr Diab - Rag3een _ عمرو دياب - راجعين(MP3_160K).mp3",
-        img: "/favpng_amr-diab-singer-songwriter-composer-lafetha-belad.png",
+        path: "\Amr Diab - Rag3een _ عمرو دياب - راجعين(MP3_160K).mp3",
+        img: "\favpng_amr-diab-singer-songwriter-composer-lafetha-belad.png",
         singer: "4"
       },
       {
         name: "Sebt Faragh Kebeer",
-        path: "/Amr Diab - Sebt Faragh Kebeer _ عمرو دياب - سبت فراغ كبير(MP3_160K).mp3",
-        img: "/images.jfif",
+        path: "\Amr Diab - Sebt Faragh Kebeer _ عمرو دياب - سبت فراغ كبير(MP3_160K).mp3",
+        img: "\images.jfif",
         singer: "5"
     }
  ];
