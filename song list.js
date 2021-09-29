@@ -2,8 +2,8 @@
 let All_song = [
     {
         name: "makank fe albi",
-        path: "\Amr Diab - Makanak Fe Alby _ عمرو دياب - مكانك في(MP3_160K).mp3",
-        img:"\copy_718854168.png",
+        path: "amrdiab\Amr Diab - Makanak Fe Alby _ عمرو دياب - مكانك في(MP3_160K).mp3",
+        img:"amrdiab\copy_718854168.png",
         singer: "1"
       },
     
