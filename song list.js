@@ -16,13 +16,13 @@ let All_song = [
       {
         name: "anta maghror",
         path: "\Amr Diab - Enta Maghroor (Audio عمرو دياب - أنت مغرور (كلمات(MP3_160K).mp3",
-        img: "\favpng_amr-diab-music-we-maloh-song-alby.png",
+        img: "\copy_718854168.png",
         singer: "3"
       },
       {
         name: "Rag3een",
         path: "\Amr Diab - Rag3een _ عمرو دياب - راجعين(MP3_160K).mp3",
-        img: "\favpng_amr-diab-singer-songwriter-composer-lafetha-belad.png",
+        img: "\download.jfif",
         singer: "4"
       },
       {
